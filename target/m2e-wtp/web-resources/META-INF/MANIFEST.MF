@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: nttdataBackEnd
+Implementation-Version: 0.0.3-SNAPSHOT
+Main-Class: com.nttdata.incloud.Application
+Created-By: Maven Integration for Eclipse
+
